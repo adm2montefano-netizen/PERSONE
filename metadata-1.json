@@ -1,0 +1,8 @@
+
+{
+  "name": "PERSON - Personal Trainer Manager",
+  "description": "A premium management platform for personal trainers to handle students, workouts, video lessons, receipts, and certificates with a modern dark green aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

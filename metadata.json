@@ -1,0 +1,7 @@
+{
+  "name": "PERSON - Personal Trainer Manager",
+  "description": "Plataforma premium de gestão para personal trainers com IA integrada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
